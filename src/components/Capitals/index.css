@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.heading {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+.label {
+  color: #323f4b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.country {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.select {
+  width: 20vw;
+  height: 5vh;
+}
